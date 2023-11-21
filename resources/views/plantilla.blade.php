@@ -57,7 +57,7 @@
                 </div>
             </div>
         </nav>
-        <div class="flex justify-center items-center">
+        <div class="flex justify-center mt-20">
             @yield('contenido')
         </div>
     </div>
